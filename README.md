@@ -51,8 +51,8 @@ https://api.openweathermap.org/data/2.5/weather?q=jaipur&appid=YOUR_API_KEY
 ## Screenshots
 Add your UI screenshots here:
 
-![Screenshot 1](https://ibb.co/2FPRvp8)
-![Screenshot 2](https://ibb.co/GC02ttM)
+![Screenshot 1]([https://i.ibb.co/r5m6ccp/Whats-App-Image-2024-12-21-at-09-28-59-c45bb618.jpg)
+![Screenshot 2](https://i.ibb.co/df6XPHb/Whats-App-Image-2024-12-21-at-09-28-59-d453592b.jpg)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
