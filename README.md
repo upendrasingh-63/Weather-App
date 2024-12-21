@@ -24,7 +24,7 @@ implementation("com.squareup.retrofit2:retrofit:2.9.0")
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/upendrasingh-63/weather-app.git
    ```
 2. Open the project in Android Studio.
 3. Add your OpenWeatherMap API key in the code:
@@ -42,11 +42,10 @@ The app uses the OpenWeatherMap API:
 - Query Parameters:
   - `q`: City name (e.g., `jaipur`)
   - `appid`: Your API key
-  - `units`: `metric` for Celsius or `imperial` for Fahrenheit
 
 Example API request:
 ```
-https://api.openweathermap.org/data/2.5/weather?q=jaipur&appid=YOUR_API_KEY&units=metric
+https://api.openweathermap.org/data/2.5/weather?q=jaipur&appid=YOUR_API_KEY
 ```
 
 ## Screenshots
